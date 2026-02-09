@@ -1,5 +1,6 @@
 streamlit
-nltk
+requests
 gtts
-openai
-sqlite3
+nltk
+pillow
+pyttsx3
