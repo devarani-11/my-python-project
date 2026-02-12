@@ -1,4 +1,4 @@
-# my-python-project
+GenAI-Radio
 my python web application
 ### How to run 
 Install python 3.8+
